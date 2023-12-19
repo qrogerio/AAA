@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\teste19-12\bin\Debug\net7.0\teste19-12.exe
+C:\Users\aluno\Desktop\teste19-12\bin\Debug\net7.0\teste19-12.deps.json
+C:\Users\aluno\Desktop\teste19-12\bin\Debug\net7.0\teste19-12.runtimeconfig.json
+C:\Users\aluno\Desktop\teste19-12\bin\Debug\net7.0\teste19-12.dll
+C:\Users\aluno\Desktop\teste19-12\bin\Debug\net7.0\teste19-12.pdb
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.AssemblyInfo.cs
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.dll
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\refint\teste19-12.dll
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.pdb
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\teste19-12.genruntimeconfig.cache
+C:\Users\aluno\Desktop\teste19-12\obj\Debug\net7.0\ref\teste19-12.dll
